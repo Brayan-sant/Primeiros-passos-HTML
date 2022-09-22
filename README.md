@@ -1,6 +1,7 @@
 Primeiros passsos com HTML
 
-1- Entendendo ComunicaÁ„o Client x Server
-2- IntroduÁ„o ao HTML na pr·tica
+1- Entendendo Comunica√ß√£o Client x Server
+
+2- Introdu√ß√£o ao HTML na pr√°tica
 
 
