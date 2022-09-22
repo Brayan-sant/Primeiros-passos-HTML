@@ -1,6 +1,7 @@
-Primeiros passsos com HTML
+# **Primeiros passsos com HTML** :boom:
 
-1- Entendendo ComunicaÁ„o Client x Server
-2- IntroduÁ„o ao HTML na pr·tica
+&nbsp;&nbsp;&nbsp;&nbsp; **1-** Entendendo Comunica√ß√£o Client x Server
+
+&nbsp;&nbsp;&nbsp;&nbsp; **2-** [_Introdu√ß√£o ao HTML na pr√°tica_](https://github.com/Brayan-sant/Primeiros-passos-HTML/blob/master/aula/Introdu%C3%A7%C3%A3o%20ao%20HTML%20na%20Pr%C3%A1tica.docx)
 
 
