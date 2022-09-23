@@ -1,4 +1,4 @@
-# **Primeiros passsos com HTML** :boom:
+# **Primeiros passsos com HTML** :boom: <img width="150" align="right" src="https://hermes.digitalinnovation.one/tracks/62ed1f1d-8d76-4bbc-905f-e73d20cb82f5.png">
 
 &nbsp;&nbsp;&nbsp;&nbsp; **1-** [_Entendendo Comunicação Client x Server_](https://github.com/Brayan-sant/Primeiros-passos-HTML/blob/master/1-%20Entendendo%20Comunica%C3%A7%C3%A3o%20Client%20x%20Server/Entendendo%20Comunica%C3%A7%C3%A3o%20Client%20x%20Server.docx)
 
